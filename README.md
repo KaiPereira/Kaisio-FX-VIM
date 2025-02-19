@@ -7,6 +7,7 @@ It also has quick mode switching from **calculator -> desmos -> vim -> browser**
 
 ![VIM-Calculator-Model](https://github.com/user-attachments/assets/68deafbf-e07a-4539-bcd3-25bf471afd9e)
 ![vim-calculator-pcb](https://github.com/user-attachments/assets/1b07e1b8-7fc6-4d66-86cb-74a1d6e59a05)
+![image](https://github.com/user-attachments/assets/4c2e0cad-48eb-424e-b96c-714c27a57511)
 
 # Specifications
 
